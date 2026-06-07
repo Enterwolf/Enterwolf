@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me daniiarfaizov@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: My first game engine was Scratch 5 years ago
+- ⚡ Fun fact: My first game engine was Scratch when I was 8
 
 <!---
 Enterwolf/Enterwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
